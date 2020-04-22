@@ -1,0 +1,16 @@
+body {
+    background: #3b3b3b;
+    color: #fff;
+}
+
+h1, h2, h5, h6, p {
+    color: #fff;
+}
+
+h4{
+    color: yellow;
+}
+
+h3{
+    color: rgb(70,150,240);
+}
